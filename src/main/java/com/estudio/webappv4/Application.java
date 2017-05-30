@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Webappv4Application {
+public class Application  {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Webappv4Application.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 }
